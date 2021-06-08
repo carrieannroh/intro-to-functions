@@ -1,12 +1,9 @@
-
-
-function isEqual(a,b) {
-    if (a === b) {
-        return true
-    } else {
-        if (a !== b)
-        return false
-    }
+function isEqual(a, b) {
+  if (a === b) {
+    return true;
+  } else {
+    if (a !== b) return false;
+  }
 }
 
 // console.log(isEqual);
